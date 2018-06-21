@@ -1,0 +1,10 @@
+{
+  "name": "chechChangesWeb",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "beepbeep": "^1.2.2",
+    "fetch": "^1.1.0",
+    "nodemailer": "^4.6.7"
+  }
+}
