@@ -8,7 +8,7 @@ var urlContent,
 	url = "http://dream.ict.pwr.wroc.pl/soi/",
 	password;
 
-fetchUrl("http://localhost:8080", function(err, meta, body){
+fetchUrl(url, function(err, meta, body){
 	//console.log(body.toString());
 	if(err){
 		console.log(err);
